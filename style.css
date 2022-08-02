@@ -177,3 +177,13 @@
   [hidden] {
     display: none;
   }
+
+  .bookGrid {
+    display: grid;
+    width: auto;
+    height: auto;
+  }
+
+  form {
+    display: none;
+  }
